@@ -11,6 +11,7 @@ Welcome to Quick Links - Jarvis! This is a personalized collection of quick link
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [Dependencies](#dependencies)
 
 ## Introduction
 
@@ -60,3 +61,14 @@ To set up the project locally, follow these steps:
 
 ## contact
 -If you have any questions, suggestions, or feedback, feel free to reach out to me at praveenjadhav1510@gmail.com
+
+## dependencies
+        "@fortawesome/fontawesome-svg-core": "^6.5.2"
+        "@fortawesome/free-brands-svg-icons": "^6.5.2"
+        "@fortawesome/free-regular-svg-icons": "^6.5.2"
+        "@fortawesome/free-solid-svg-icons": "^6.5.2"
+        "@fortawesome/react-fontawesome": "^0.2.2"
+        "@testing-library/jest-dom": "^5.17.0"
+        "@testing-library/react": "^13.4.0"
+        "@testing-library/user-event": "^13.5.0"
+        "axios": "^1.7.2"

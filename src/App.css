@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(-90deg ,#b8fffb,#e4dbff);
+}
+.main ,h1 {
+  padding: 20px 5vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

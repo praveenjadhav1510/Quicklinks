@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Canva",
+        "url": "https://www.canva.com/",
+        "about": "Canva makes it easy to create professional designs and to share or print them.",
+        "iconUrl": "https://static.canva.com/static/images/favicon-1.ico"
+    },
+    {
+        "name": "Carbon.sh",
+        "url": "https://carbon.now.sh/",
+        "about": "Online IDE for generating codes snippets.",
+        "iconUrl": "https://carbon.now.sh/favicon.ico"
+    },
+    {
+        "name": "Gamma ai",
+        "url": "https://gamma.app/",
+        "about": "presentation tool that helps you create presentations with the power of AI",
+        "iconUrl": "https://gamma.app/favicons/favicon-192.svg"
+    },
+    {
+        "name": "Figma",
+        "url": "https://www.figma.com/",
+        "about": "create, share, and test designs for websites, mobile apps, and other digital products and experiences.",
+        "iconUrl": "https://static.figma.com/app/icon/1/favicon.ico"
+    },
+    {
+        "name": "FontAsom Icons",
+        "url": "https://fontawesome.com/search?o=r&m=free",
+        "about": "FontAsom is a Font and Icon tool kit.",
+        "iconUrl": "https://fontawesome.com/favicon.ico"
+    },
+    {
+        "name": "Gemini",
+        "url": "https://gemini.google.com/",
+        "about": "Generative AI model developed by Google DeepMind.",
+        "iconUrl": "https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg"
+    },
+    {
+        "name": "Github",
+        "url": "https://github.com/",
+        "about": "Allows developers to create, store, manage code.",
+        "iconUrl": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+        "name": "Gits code-uploder",
+        "url": "https://gist.github.com/",
+        "about": "Allows developers to manage and share there code.",
+        "iconUrl": "https://github.githubassets.com/favicons/favicon.png"
+    },
+    {
+        "name": "HeyGen video-creation",
+        "url": "https://www.heygen.com/",
+        "about": "AI powered Video Generation tool from text discriptions.",
+        "iconUrl": "https://cdn.prod.website-files.com/63fdcbe48aa020c0a5493507/660fa56f1f2d318b352b4786_robotAvatarDark.png"
+    },
+    {
+        "name": "Ideogram ai",
+        "url": "https://ideogram.ai/",
+        "about": "Image generator everything from artwork to realistic photos and diagrams.",
+        "iconUrl": "https://ideogram.ai//favicon.svg"
+    },
+    {
+        "name": "Image creator",
+        "url": "https://imgcreator.zmo.ai/",
+        "about": "AI image Generation tool from text discriptions.",
+        "iconUrl": "https://imgcreator.zmo.ai//favicon.ico"
+    },
+    {
+        "name": "Invedio AI",
+        "url": "https://invideo.io/",
+        "about": "Invedio AI Create videos with text prompts.",
+        "iconUrl": "https://web-assets.invideo.io/favicons/prod/purple_favicon.ico"
+    },
+    {
+        "name": "Magic Studio",
+        "url": "https://magicstudio.com/",
+        "about": "Magic Studio combines AI image generation and editing in one tool",
+        "iconUrl": "https://magicstudio.com/favicon-32x32.png"
+    },
+    {
+        "name": "makereal",
+        "url": "https://makereal.tldraw.com/",
+        "about": "Make Real is a tool that converts drawn UI mockups into functional HTML.",
+        "iconUrl": "https://makereal.tldraw.com/favicon.svg"
+    },
+    {
+        "name": "Monkeytype",
+        "url": "https://monkeytype.com/",
+        "about": "Online typing test to improve typing speed and accuracy.",
+        "iconUrl": "https://monkeytype.com/images/favicon/favicon.ico"
+    },
+    {
+        "name": "OpenAI ChatGPT",
+        "url": "https://chatgpt.com/",
+        "about": "Chatbot and virtual assistant developed by OpenAI.",
+        "iconUrl": "https://chatgpt.com//favicon.ico"
+    },
+    {
+        "name": "OpenAI DALL\u00b7E 3",
+        "url": "https://openai.com/index/dall-e-3",
+        "about": "DALL\u00b7E 3 is designed to generate images from textual descriptions.",
+        "iconUrl": "https://openai.com/favicon.ico"
+    },
+    {
+        "name": "OpenAI SORA",
+        "url": "https://openai.com/index/sora/",
+        "about": "Text-to-video model featuring highly detailed scenes and complex camera motion.",
+        "iconUrl": "https://openai.com/favicon.ico"
+    },
+    {
+        "name": "Photopea",
+        "url": "https://www.photopea.com/",
+        "about": "Photopea is an advanced image editor, which can work with both raster and vector graphics.",
+        "iconUrl": "https://www.photopea.com/promo/icon512.png"
+    },
+    {
+        "name": "Pinterest",
+        "url": "https://in.pinterest.com/",
+        "about": "visual discovery engine for finding ideas like recipes, home and style inspiration, and more.",
+        "iconUrl": "https://www.photopea.com/promo/icon512.png"
+    },
+    {
+        "name": "replit",
+        "url": "https://replit.com/",
+        "about": "facilitates rapid software development, allowing users to build, collaborate, and deploy applications quickly.",
+        "iconUrl": "https://cdn.replit.com/dotcom/favicon-196.png"
+    },
+    {
+        "name": "Speedtest Ookla",
+        "url": "https://www.speedtest.net/",
+        "about": "Test the performance and quality of an internet connection.",
+        "iconUrl": "https://www.speedtest.net/favicon.ico"
+    },
+    {
+        "name": "Leonardo ai",
+        "url": "https://leonardo.ai/",
+        "about": "AI art generator that provides a vast array of tools and models for creating stunning visual art.",
+        "iconUrl": "https://leonardo-cdn.b-cdn.net/wp-content/uploads/2024/07/cropped-favicon-32x32.png"
+    }
+]

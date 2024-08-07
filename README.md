@@ -1,6 +1,6 @@
 # Quick Links - Jarvis
 
-Welcome to Quick Links - Jarvis! This is a personalized collection of quick links to various online tools and resources. This project aims to provide a convenient dashboard for easy access to frequently used tools for design, development, AI, and productivity.
+Welcome to Quick Links - Jarvis! This is a personalized collection of quick links to various online tools and resources. This project aims to provide a convenient dashboard for easy access to frequently used tools for design, development, AI, and productivity https://praveenjadhav1510.github.io/quicklinks/.
 
 ## Table of Contents
 
